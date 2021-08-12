@@ -1,0 +1,62 @@
+p {
+	color: black;
+	font-family: Times new roman;
+	font-size: 18px;
+	text-align: left;
+	text-decoration: none;
+	line-height: 20px;
+}
+h1	{
+	color: blue;
+	font-family: Times new roman;
+	font-size: 24px;
+	text-align: center;
+	text-decoration: underline;
+}
+h2	{
+	color: green;
+	font-family: Times new roman;
+
+}
+a {
+	color: red;
+	font-family: Times new roman;
+	font-size: 18px;
+}
+.Info	{
+	color: red;
+	font-family: Times new roman;
+	font-size: 18px;
+}
+span {
+	color: red;
+	font-family: Times new roman
+	font-size:18px;
+}
+.age{
+	color: red;
+	text-align: left;
+	text-decoration: underline;
+}
+.data{
+	font-size: 18px;
+	border: 2px dashed crimson;
+	background: red;
+	text-align: center;
+	b
+
+}
+#form{
+	background: lightgrey;
+	padding: 20px;
+}
+a{
+	text-transform: uppercase;
+	border: 2px dashed blue;
+	text-decoration: none;
+	font-weight: bold;
+}
+div p{
+	color: green;
+	padding: 10px;
+}
